@@ -11,3 +11,4 @@
 - ### [Repetition (반복문)](./Go/Repetition/all.md)
 - ### [Function (함수)](./Go/function/all.md)
 - ### [Closure (클로저)](./Go/Closure/closure.md)
+- ### [Array (배열)](./Go/array/ary.md)
