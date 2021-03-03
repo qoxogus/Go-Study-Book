@@ -8,4 +8,4 @@
 - ### [Datatype Conversion (데이터타입 변환)](./Datatypeconversion/Datatypeconversion.md)
 - ### [Operator (연산자)](./Operator/all.md)
 - ### [Conditional (조건문)](./conditional/all.md)
-- ### [Repetition (반복문)](./)
+- ### [Repetition (반복문)](./Repetition/all.md)
