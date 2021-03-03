@@ -9,4 +9,5 @@
 - ### [Operator (연산자)](./Go/Operator/all.md)
 - ### [Conditional (조건문)](./Go/conditional/all.md)
 - ### [Repetition (반복문)](./Go/Repetition/all.md)
-- ### [function (함수)](./Go/function/all.md)
+- ### [Function (함수)](./Go/function/all.md)
+- ### [Closure (클로저)](./Go/Closure/closure.md)
