@@ -12,3 +12,4 @@
 - ### [Function (함수)](./Go/function/all.md)
 - ### [Closure (클로저)](./Go/Closure/closure.md)
 - ### [Array (배열)](./Go/array/ary.md)
+- ### [Slice (슬라이스)](./Go/Slice/all.md)
