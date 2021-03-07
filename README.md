@@ -15,3 +15,5 @@
 - ### [Slice (슬라이스)](./Go/Slice/all.md)
 - ### [Map (맵)](./Go/Map/map.md)
 - ### [Package (패키지)](./Go/gopackage/all.md)
+- ### [Struct (구조체)](./Go/struct/struct.md)
+- ### [Method (메소드)](./Go/method/method.md)
