@@ -18,3 +18,4 @@
 - ### [Struct (구조체)](./Go/struct/struct.md)
 - ### [Method (메소드)](./Go/method/method.md)
 - ### [Interface (인터페이스)](./Go/interface/interface.md)
+- ### [Error (에러)](./Go/error/error.md)
