@@ -19,3 +19,6 @@
 - ### [Method (메소드)](./Go/method/method.md)
 - ### [Interface (인터페이스)](./Go/interface/interface.md)
 - ### [Error (에러)](./Go/error/error.md)
+- ### [Defer (디퍼)](./Go/defer/defer.md)
+- ### [Panic (패닉)](./Go/panic/panic.md)
+- ### [Recover (리코버)](./Go/recover/recover.md)
