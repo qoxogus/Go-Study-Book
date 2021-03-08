@@ -24,4 +24,5 @@
 - ### [Recover (리코버)](./Go/recover/recover.md)
 - ### [Go의 꽃 Go routine (고루틴)](./Go/goroutine/goroutine.md)
 
-![Golang](../img/golang.jpeg)
+
+![Golang](./Go/img/healthgo.jpeg)
